@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67708020456",
+    "project_id": "mobileotp-4d9ab",
+    "storage_bucket": "mobileotp-4d9ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67708020456:android:7dc18f4b383fa6dbe18b5d",
+        "android_client_info": {
+          "package_name": "com.example.mobileotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67708020456-td00jpisul3puj2duhs958kjh2ouedf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAujbe8LZirf_4E0rk1ZCkhr2kTrNbBS3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67708020456-td00jpisul3puj2duhs958kjh2ouedf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
